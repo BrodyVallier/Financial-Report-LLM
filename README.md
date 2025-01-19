@@ -1,4 +1,4 @@
-This projected was designed to analyze large Financial reports in a quick and efficient manner so Financial Analysits can focus their effort and time towards other tasks. The Program uses pdfplumber to go through any text only pdfs to quickly extract the raw text. However, if the text is embedded in an image within the pdf then the program will then convert the pdf to an image and use tesseract, an OCR program, to extract the text. A personal OpenAI key is required but training data is not as the model being used is pretrained by OpenAI.
+This projected was designed to analyze large Financial reports in a quick and efficient manner so Financial Analysits can focus their effort and time towards other tasks. The Program uses pdfplumber to go through any text only pdfs to quickly extract the raw text. However, if the text is embedded in an image within the pdf then the program will then convert the pdf to an image and use tesseract, an OCR program, for the text extraction. A personal OpenAI key is required but training data is not as the model being used is pretrained by OpenAI.
 
 **Future work**
 -integrate this script into a website using react and AWS frame work
