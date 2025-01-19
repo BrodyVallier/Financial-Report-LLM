@@ -1,1 +1,2 @@
-This program relies on the libraries within the code as well as the poppler and tesseract packages which have to be installed seperately and moved into the paths system environment variable
+This program relies on the libraries within the code as well as the poppler and tesseract packages 
+which have to be installed seperately and moved into the paths system environment variable
